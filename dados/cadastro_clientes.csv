@@ -1,0 +1,11 @@
+﻿id_cliente;nome;email;data_cadastro;cidade;estado
+C085;Ana Silva;ana.silva@email.com;2023-05-12;São Paulo;SP
+C123;Bruno Costa;bruno.c@email.com;2023-07-20;Rio de Janeiro;RJ
+C250;Carlos Dias;c.dias@email.com;2023-11-01;sao paulo;São Paulo
+C301;Daniela Souza;dani.souza@email.com;2024-01-05;Belo Horizonte;MG
+C412;Eduarda Lima;edu.lima@email.com;2024-02-28;Porto Alegre;RS
+C555;Fernanda Alves;fer.alves@email.com;2024-03-15;Curitiba;PR
+C600;Gustavo Borges;g.borges@email.com;2023-09-10;curitiba;Paraná
+C601;Helena Rocha;helena.r@email.com;2023-10-05;salvador;BA
+C720;Isabela Martins;isa.m@email.com;2024-06-12;Florianópolis;Santa Catarina
+C815;João Pereira;joao.p@email.com;2024-07-01;sao paulo;SP

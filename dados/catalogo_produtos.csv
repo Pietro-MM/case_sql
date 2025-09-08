@@ -1,0 +1,16 @@
+﻿id_produto;nome_produto;categoria;fornecedor;custo_unitario
+P001;Notebook Pro X1;Notebook;TechCorp;3800.00
+P002;Notebook Gamer Z;notebook;GameMax;1800.00
+P003;Monitor UltraWide 4K;Monitor;Display soluções;4200.00
+P004;Smartphone Alpha 10;Celular;MobileFast;2800.00
+P005;Teclado Mecânico RGB;Acessório;Clicky;120.00
+P006;Mouse Gamer Pro;Acessório;Clicky;250.00
+P007;Cabo HDMI 2.1;Cabo;ConectaTudo;60.00
+P008;Webcam HD;Acessório;Vision;70.00
+P009;Pen Drive 64GB;Armazenamento;DataSafe;35.00
+P010;SSD Externo 1TB; armazenamento;DataSafe;950.00
+P011;Cadeira Gamer Ergo;Acessório;GameMax;850.00
+P012;Headset Pro 7.1;acessório;SoundWave;450.00
+P013;Tablet Read 10;Tablet;TechCorp;1500.00
+P014;Smartwatch Fit Pro;Wearable;MobileFast;2100.00
+P015;Roteador Mesh 6;Rede;Tech Corp;850.00
